@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+openai_key = "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"
+chromadb
+tiktoken.eve
+langchain
+typing-inspect==0.8.0
+typing_extensions==4.5.0
